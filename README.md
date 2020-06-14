@@ -24,7 +24,7 @@ Only Routee SMS is implemented at the moment, if you want more channels feel fre
 Install this package with Composer:
 
 ```bash
-composer require laravel-notification-channels/routee
+composer require crispaezco/laravel-routee-channel
 ```
 
 The service provider gets loaded automatically. Or you can do this manually:
