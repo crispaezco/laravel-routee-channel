@@ -1,5 +1,5 @@
 {
-    "name": "anheric/laravel-routee-channel",
+    "name": "crispaezco/laravel-routee-channel",
     "description": "Notification channel for routee.net",
     "homepage": "https://github.com/anheric/laravel-routee-channel",
     "license": "MIT",
